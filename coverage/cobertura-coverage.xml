@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<!DOCTYPE coverage SYSTEM "http://cobertura.sourceforge.net/xml/coverage-04.dtd">
+<coverage lines-valid="0" lines-covered="0" line-rate="NaN" branches-valid="0" branches-covered="0" branch-rate="NaN" timestamp="1541735986255" complexity="0" version="0.1">
+  <sources>
+    <source>D:\Projects\code\microsoft-authentication-library-for-js\lib\msal-angular\samples\MSALAngularDemoApp\node_modules\@azure\msal-angular\node_modules\msal</source>
+  </sources>
+  <packages>
+  </packages>
+</coverage>
